@@ -445,7 +445,9 @@ function changeSelect() {
     paymentTicketType.innerHTML = select.options[select.selectedIndex].innerHTML;
     ticktCost = select.options[select.selectedIndex].dataset.type;
 
-    renderBookingCard();
+    paymentTicketType.innerHTML = document.querySelector('.tickets-type-radio[checked="true"]').nextElementSibling.innerHTML;
+
+    selectLabelSpan.innerHTML = document.querySelector('.tickets-type-radio[checked="true"]').nextElementSibling.innerHTML;
 
     selectLabelSpan.innerHTML = select.options[select.selectedIndex].innerHTML;
     paymentTicketType.innerHTML = select.options[select.selectedIndex].innerHTML;;
