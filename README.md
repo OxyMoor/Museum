@@ -11,4 +11,4 @@ The project is a site of a museum, including 6 sections: "visiting", "explore", 
 - Image comparison sliderCancel changes
 - Product sales calculator and rendering shopping cart with accounting this calculator
 - Custom interactive map (with mapbox)
-### Deploy: https://seriakovaoksana.github.io/Museum/index.html
+### Deploy: https://seriakovaoksana.github.io/Museum/
