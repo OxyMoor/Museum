@@ -8,7 +8,7 @@ The project is a site of a museum, including 6 sections: "visiting", "explore", 
 - Burger-menu
 - Infinite slider
 - Custom HTML-5 video player
-- Image comparison sliderCancel changes
+- Image comparison slider
 - Product sales calculator and rendering shopping cart with accounting this calculator
 - Custom interactive map (with mapbox)
 ### Deploy: https://oxymoor.github.io/Museum/
